@@ -5,6 +5,7 @@
  * Una propiedad contiene la información necesaria para relacionar  como un propietario, dirección, zona, compañía eléctrica y estrato.
  * </p> 
  * @author jvale
+ * @code reviewer fafu_8
  * @version 1.0
 */
 
