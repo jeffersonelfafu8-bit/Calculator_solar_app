@@ -7,6 +7,7 @@
  * </p>
  *
  * @author jvale
+ * @code reviewer fafu_8
  * @version 1.0
  */
 public class Zone {
