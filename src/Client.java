@@ -5,8 +5,9 @@
  * Una cliente contiene la información necesaria para relacionar
  * una nombre, apeliido y zona.
  * </p>
- *
+ * 
  * @author jvale
+ * @code reviewer fafu_8
  * @version 1.0
  */
 public class Client {
