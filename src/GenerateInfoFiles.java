@@ -10,6 +10,8 @@
  *
  * @author  Juana Valentina Sánchez
  * @author jvale
+ * @code reviewer Jefferson Stiven Díaz S.
+ * @code reviewer fafu_8
  * @version 1.0
  */
 //importación de librerias para utilizar las clases File, FileWriter y IOException que estan dentro de Java.io
